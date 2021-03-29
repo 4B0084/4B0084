@@ -1,1 +1,1 @@
-<b>NE MUTLU TÜRK'ÜM DİYENE!</b>
+<h1>NE MUTLU TÜRK'ÜM DİYENE!</h1>
